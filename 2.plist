@@ -19,13 +19,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.aruistar.cmcapp123</string>
+                <string>com.aruistar.cmcapp</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>cmcapp</string>
+                <string>cmcapp123</string>
             </dict>
         </dict>
     </array>
